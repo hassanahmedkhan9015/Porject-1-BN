@@ -1,0 +1,98 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#main-heading {
+  color: white;
+  font-family: "Dancing Script", cursive;
+  font-weight: bolder;
+  font-size: 330%;
+  display: flex;
+  justify-content: center;
+  padding: 0px 0px;
+  margin: 5px 0px;
+}
+.Bg-main {
+  background-image: url(/Images/Bg-Blur-1.svg);
+  background-size: cover;
+}
+#img-1 {
+  width: 600px;
+  height: 500px;
+}
+#img-2 {
+  width: 600px;
+  height: 500px;
+}
+#img-3 {
+  width: 600px;
+  height: 500px;
+}
+#btn-book {
+  color: white;
+}
+#temp-3-heading {
+  color: white;
+  font-family: "Dancing Script", cursive;
+}
+.bg-blue {
+  background-color:#0266a8;
+}
+.font-style{
+    font-family: "Dancing Script", cursive;
+    font-weight: bolder; 
+}
+.text-set{
+    display: flex;
+    color: hsl(36, 90%, 52%);
+    position: relative;
+    top: -137px;
+    right: -61px;
+    font-family: "Dancing Script", cursive;
+    font-size: 47px;
+    font-weight: bolder;
+}
+.europe{
+    left: 95px;
+}
+.asia{
+    left: 112px;
+}
+
+#btn-set{
+    position: relative;
+    top: -34px;
+    color: white;
+}
+#tempo-image-4{
+    position: relative;
+    left: -14px;
+}
+#fifth-tenpo{
+width: 100%;
+height: 65vh;
+}
+.review-heading{
+  color: black;
+  font-weight: bolder;
+}
+.review-content{
+  color: red;
+}
+.sixth-bg{
+  background-image: url(/Images/Airoplane-Bg.svg);
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+}
+.sixth-tempo{
+  margin: 274px 3px;
+}
+/* Seventh-Tempo CSS Start  */
+.seventh-bg{
+  width: 100%;
+  height: 75vh;
+}
+
+/* Seventh-Tempo CSS End  */
